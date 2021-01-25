@@ -1,0 +1,36 @@
+body, html {
+  height: 100%;
+  background-color: black;
+}
+h1{
+    color:rgb(0, 132, 255);
+}
+h2{
+    color:rgb(0, 132, 255);
+}
+img{
+    width:550px; length:450;
+}
+#siteDescription{
+    color: cornflowerblue;
+}
+#linkpic{
+    width: 100%;
+}
+#nav{
+    position:bottom;
+    overflow: hidden;
+    justify-content: center;
+    text-align: center;
+}
+#nav-bar li{
+    display: inline;
+    background-color: cornflowerblue;
+    padding: 10px 14px;
+    text-align: justify;
+    justify-content: center;
+}
+table, th, td {
+    border: 1px solid white;
+    color: cornflowerblue;
+  }
